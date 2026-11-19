@@ -1,5 +1,0 @@
-Nome do assistente: Citizen Assist AI
-Público atendido: Cidadãos que procuram orientações sobre serviços públicos e documentos
-Integrantes e RM: [PREENCHER NOMES E RMs]
-Link do repositório GitHub: [PREENCHER]
-Link do vídeo técnico no YouTube: [PREENCHER]
