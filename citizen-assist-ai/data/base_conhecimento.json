@@ -1,0 +1,224 @@
+[
+  {
+    "id": 1,
+    "categoria": "Saúde",
+    "titulo": "Fazer o Cartão Nacional de Saúde (Cartão SUS)",
+    "palavras_chave": [
+      "cartao do sus",
+      "cartao sus",
+      "sus",
+      "cns"
+    ],
+    "resposta": "O cadastro do Cartão SUS pode ser feito em uma unidade de saúde. O número do CNS também pode ser consultado no Meu SUS Digital. Confirme o procedimento da sua UBS.",
+    "documentos": [
+      "RG ou documento de identificação",
+      "CPF",
+      "Certidão de Nascimento ou Casamento, conforme orientação federal"
+    ],
+    "onde": "Unidade Básica de Saúde (UBS) ou Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude/pt-br/acesso-a-informacao/faq/tematicos-e-outros/como-conseguir-o-cartao-sus",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 2,
+    "categoria": "Saúde",
+    "titulo": "Consultar o Cartão SUS digital",
+    "palavras_chave": [
+      "meu sus digital",
+      "cartao digital",
+      "numero do cns",
+      "cns"
+    ],
+    "resposta": "Entre no Meu SUS Digital com a conta gov.br para consultar informações do Cartão Nacional de Saúde.",
+    "documentos": [
+      "Conta gov.br para acessar o aplicativo"
+    ],
+    "onde": "Aplicativo ou site Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao/9-como-faco-o-cartao",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 3,
+    "categoria": "Saúde",
+    "titulo": "Consultar registros de vacinação",
+    "palavras_chave": [
+      "vacinas",
+      "vacinacao",
+      "carteira de vacinacao",
+      "comprovante de vacina"
+    ],
+    "resposta": "O Meu SUS Digital permite consultar registros de vacinação disponíveis nos sistemas integrados. Se um registro não aparecer, procure a unidade onde tomou a vacina.",
+    "documentos": [
+      "Conta gov.br para consultar os registros"
+    ],
+    "onde": "Meu SUS Digital ou unidade de saúde",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos",
+    "titulo": "Obter a Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "ctps digital",
+      "carteira digital",
+      "primeiro emprego"
+    ],
+    "resposta": "A Carteira de Trabalho Digital é acessada pelo aplicativo ou pelo serviço do gov.br, mediante identificação na conta do próprio cidadão.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou portal gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 5,
+    "categoria": "Documentos",
+    "titulo": "Solicitar a Carteira de Identidade Nacional (CIN) em São Paulo",
+    "palavras_chave": [
+      "cin",
+      "nova identidade",
+      "identidade nacional",
+      "rg novo"
+    ],
+    "resposta": "Para emitir a CIN em São Paulo, consulte a carta oficial do serviço no Poupatempo e agende quando exigido. Os documentos e as regras variam conforme idade e situação cadastral.",
+    "documentos": [
+      "CPF regularizado",
+      "Certidão de nascimento ou casamento conforme situação",
+      "Outros documentos indicados no serviço oficial"
+    ],
+    "onde": "Poupatempo e postos de identificação do estado de São Paulo",
+    "fonte": "https://www.poupatempo.sp.gov.br/carta/D97C3844-A2D9-4C9E-B364-CB4FEB26A1FB",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 6,
+    "categoria": "Documentos",
+    "titulo": "Consultar serviços da conta gov.br",
+    "palavras_chave": [
+      "conta gov",
+      "gov br",
+      "acessar govbr",
+      "login governo"
+    ],
+    "resposta": "Acesse o portal gov.br e utilize a opção de entrar para acessar serviços públicos digitais. Não compartilhe sua senha.",
+    "documentos": [
+      "Conta gov.br do próprio cidadão"
+    ],
+    "onde": "Portal gov.br",
+    "fonte": "https://www.gov.br/pt-br",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 7,
+    "categoria": "Consumidor",
+    "titulo": "Registrar reclamação de compra ou serviço",
+    "palavras_chave": [
+      "reclamacao",
+      "compra com problema",
+      "produto defeituoso",
+      "consumidor gov"
+    ],
+    "resposta": "Procure primeiro a empresa. Se necessário, verifique se ela participa do Consumidor.gov.br e registre uma reclamação pelo serviço oficial.",
+    "documentos": [
+      "Conta gov.br e informações sobre a compra, enviadas apenas no serviço oficial"
+    ],
+    "onde": "Consumidor.gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/reclamar-contra-servico-ou-produto-de-empresas-privadas",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 8,
+    "categoria": "Consumidor",
+    "titulo": "Conhecer os direitos do consumidor",
+    "palavras_chave": [
+      "direitos consumidor",
+      "codigo defesa consumidor",
+      "cdc",
+      "procon"
+    ],
+    "resposta": "Consulte as orientações oficiais de defesa do consumidor. Para atendimento local, procure o Procon da sua cidade ou estado.",
+    "documentos": [
+      "Documentos da compra, se houver, apresentados somente ao órgão competente"
+    ],
+    "onde": "Procon e canais oficiais de defesa do consumidor",
+    "fonte": "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 9,
+    "categoria": "Segurança",
+    "titulo": "Receber alertas da Defesa Civil por SMS",
+    "palavras_chave": [
+      "defesa civil",
+      "alerta chuva",
+      "alerta sms",
+      "desastre",
+      "enchente"
+    ],
+    "resposta": "Para receber alertas por SMS, envie o CEP da área de interesse para 40199. O cadastro é realizado fora deste assistente.",
+    "documentos": [
+      "CEP da região, informado somente no canal oficial"
+    ],
+    "onde": "SMS 40199 / Defesa Civil",
+    "fonte": "https://www.gov.br/pt-br/servicos/solicitar-cadastro-para-recebimento-de-avisos-e-alertas-de-desastres",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 10,
+    "categoria": "Segurança",
+    "titulo": "Entender o sistema Defesa Civil Alerta",
+    "palavras_chave": [
+      "defesa civil alerta",
+      "alerta emergencia",
+      "alerta celular",
+      "deslizamento"
+    ],
+    "resposta": "O Defesa Civil Alerta pode emitir avisos para celulares em localidades de risco sem cadastro prévio, conforme a cobertura e regras oficiais.",
+    "documentos": [
+      "Nenhum cadastro prévio para os alertas por difusão celular"
+    ],
+    "onde": "Alertas emitidos pela Defesa Civil em regiões abrangidas",
+    "fonte": "https://www.gov.br/mdr/pt-br/assuntos/protecao-e-defesa-civil/defesa-civil-alerta",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 11,
+    "categoria": "Documentos",
+    "titulo": "Consultar serviços para trabalhadores no Emprega Brasil",
+    "palavras_chave": [
+      "emprega brasil",
+      "portal emprego",
+      "seguro desemprego",
+      "abono salarial"
+    ],
+    "resposta": "O Portal Emprega Brasil permite consultar serviços ao trabalhador, incluindo informações da carteira de trabalho e de benefícios, conforme sua situação.",
+    "documentos": [
+      "Conta gov.br para autenticação"
+    ],
+    "onde": "Portal Emprega Brasil",
+    "fonte": "https://www.gov.br/pt-br/servicos/acessar-portal-emprega-brasil-2013-trabalhador",
+    "verificado_em": "PENDENTE"
+  },
+  {
+    "id": 12,
+    "categoria": "Saúde",
+    "titulo": "Localizar unidades de saúde pelo Meu SUS Digital",
+    "palavras_chave": [
+      "unidade saude",
+      "encontrar ubs",
+      "posto saude",
+      "hospital perto"
+    ],
+    "resposta": "O Meu SUS Digital apresenta informações sobre estabelecimentos de saúde, como UBS e hospitais, conforme os registros disponíveis.",
+    "documentos": [
+      "Conta gov.br, se exigida na funcionalidade"
+    ],
+    "onde": "Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao/2-quais-os-servicos-que",
+    "verificado_em": "PENDENTE"
+  }
+]
