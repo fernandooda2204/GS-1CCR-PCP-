@@ -1,0 +1,11 @@
+﻿data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos
+2026-11-19T10:07:00,pergunta,Como faço o cartão do SUS?,1,True,True,1,22.4
+2026-11-19T10:14:00,pergunta,Onde encontro minha carteira de trabalho digital?,4,True,True,1,30.8
+2026-11-19T10:21:00,pergunta,"Comprei um produto defeituoso, como fazer reclamacao?",7,True,True,1,28.1
+2026-11-19T10:28:00,pergunta,Como faço para emitir segunda via do passaporte?,,False,,1,35.2
+2026-11-19T10:35:00,pergunta,Como recebo alerta de enchente no celular?,9,True,True,1,21.6
+2026-11-19T10:42:00,pergunta,Preciso consultar as vacinas que tomei,3,True,True,1,25.9
+2026-11-19T10:49:00,pergunta,Quero tirar o RG novo em São Paulo,5,True,False,2,33.7
+2026-11-19T10:56:00,pergunta,Quero saber meus direitos consumidor,8,True,True,1,24.2
+2026-11-19T11:03:00,pergunta,Onde consigo encontrar UBS perto de casa?,12,True,True,1,29.5
+2026-11-19T11:10:00,pergunta,Como solicitar a segunda via da conta de luz?,,False,,1,31.4

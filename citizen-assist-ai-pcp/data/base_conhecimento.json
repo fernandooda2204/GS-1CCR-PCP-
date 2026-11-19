@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "categoria": "Saúde",
+    "titulo": "Fazer o Cartão Nacional de Saúde (Cartão SUS)",
+    "palavras_chave": [
+      "cartao do sus",
+      "cartao sus",
+      "sus",
+      "cns"
+    ],
+    "resposta": "O cadastro do Cartão SUS pode ser feito em uma unidade de saúde. O número do CNS também pode ser consultado no Meu SUS Digital. Confirme o procedimento da sua UBS.",
+    "documentos": [
+      "RG ou documento de identificação",
+      "CPF",
+      "Certidão de Nascimento ou Casamento, conforme orientação federal"
+    ],
+    "onde": "Unidade Básica de Saúde (UBS) ou Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude/pt-br/acesso-a-informacao/faq/tematicos-e-outros/como-conseguir-o-cartao-sus",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 2,
+    "categoria": "Saúde",
+    "titulo": "Consultar o Cartão SUS digital",
+    "palavras_chave": [
+      "meu sus digital",
+      "cartao digital",
+      "numero do cns",
+      "cns"
+    ],
+    "resposta": "O Meu SUS Digital não emite um Cartão SUS novo. Nele você consulta o número do seu Cartão Nacional de Saúde (CNS). Para fazer um cartão novo ou corrigir o cadastro, vá a uma unidade de saúde.",
+    "documentos": [
+      "Acesso ao aplicativo ou site Meu SUS Digital"
+    ],
+    "onde": "Aplicativo ou site Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao/9-como-faco-o-cartao",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 3,
+    "categoria": "Saúde",
+    "titulo": "Consultar registros de vacinação",
+    "palavras_chave": [
+      "vacinas",
+      "vacinacao",
+      "carteira de vacinacao",
+      "comprovante de vacina"
+    ],
+    "resposta": "O Meu SUS Digital mostra o histórico e a carteira de vacinação, conforme o que os serviços de saúde registraram. As vacinas são incluídas aos poucos; se alguma não aparecer, procure a unidade onde foi vacinado. O app não faz agendamento de vacina.",
+    "documentos": [
+      "Acesso ao aplicativo ou site Meu SUS Digital"
+    ],
+    "onde": "Meu SUS Digital ou unidade de saúde",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos",
+    "titulo": "Obter a Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "ctps digital",
+      "carteira digital",
+      "primeiro emprego"
+    ],
+    "resposta": "A Carteira de Trabalho Digital é obtida pelo aplicativo Carteira de Trabalho Digital (Android ou iOS) ou pelo portal de serviços do Ministério do Trabalho e Emprego, entrando com a conta gov.br. O atendimento é imediato.",
+    "documentos": [
+      "Número do CPF",
+      "Conta gov.br (nível bronze, prata ou ouro)"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou servicos.mte.gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 5,
+    "categoria": "Documentos",
+    "titulo": "Solicitar a Carteira de Identidade Nacional (CIN) em São Paulo",
+    "palavras_chave": [
+      "cin",
+      "nova identidade",
+      "identidade nacional",
+      "rg novo"
+    ],
+    "resposta": "A primeira via da CIN em São Paulo é gratuita e substitui o RG estadual. Agende pelo site, WhatsApp ou aplicativo do Poupatempo e compareça ao posto escolhido. A retirada é no mesmo local, em até 26 dias úteis. Os documentos variam conforme o seu caso; confira a página oficial.",
+    "documentos": [
+      "Certidão de nascimento (solteiros) ou de casamento atualizada, original e cópia simples",
+      "Número do CPF",
+      "Menores de 16 anos: autorização do responsável legal"
+    ],
+    "onde": "Postos Poupatempo e unidades do IIRGD no estado de São Paulo",
+    "fonte": "https://www.poupatempo.sp.gov.br/carta/D97C3844-A2D9-4C9E-B364-CB4FEB26A1FB",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 6,
+    "categoria": "Documentos",
+    "titulo": "Consultar serviços da conta gov.br",
+    "palavras_chave": [
+      "conta gov",
+      "gov br",
+      "acessar govbr",
+      "login governo"
+    ],
+    "resposta": "O portal gov.br reúne serviços públicos digitais e informações do governo federal. Também existe o aplicativo gov.br, para Android e iPhone. Nunca compartilhe sua senha.",
+    "documentos": [
+      "Conta gov.br do próprio cidadão"
+    ],
+    "onde": "Portal gov.br",
+    "fonte": "https://www.gov.br/pt-br",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 7,
+    "categoria": "Consumidor",
+    "titulo": "Registrar reclamação de compra ou serviço",
+    "palavras_chave": [
+      "reclamacao",
+      "compra com problema",
+      "produto defeituoso",
+      "consumidor gov"
+    ],
+    "resposta": "Cadastre-se no Consumidor.gov.br (site ou aplicativo) e registre a reclamação. A empresa responde pela plataforma e você avalia o atendimento. O serviço é gratuito e o prazo estimado é de 2 a 7 dias.",
+    "documentos": [
+      "Conta gov.br nível prata ou ouro",
+      "Nota fiscal, contrato, comprovante de pagamento ou boleto da compra (somente no serviço oficial)"
+    ],
+    "onde": "Consumidor.gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/reclamar-contra-servico-ou-produto-de-empresas-privadas",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 8,
+    "categoria": "Consumidor",
+    "titulo": "Conhecer os direitos do consumidor",
+    "palavras_chave": [
+      "direitos consumidor",
+      "codigo defesa consumidor",
+      "cdc",
+      "procon"
+    ],
+    "resposta": "A Secretaria Nacional do Consumidor (Senacon) reúne na página oficial links para o Portal Defesa do Consumidor e para o Consumidor.gov.br, com orientações sobre os direitos de quem compra.",
+    "documentos": [
+      "Nenhum documento para consultar as orientações"
+    ],
+    "onde": "Página da Senacon (Ministério da Justiça) e Portal Defesa do Consumidor",
+    "fonte": "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 9,
+    "categoria": "Segurança",
+    "titulo": "Receber alertas da Defesa Civil por SMS",
+    "palavras_chave": [
+      "defesa civil",
+      "alerta chuva",
+      "alerta sms",
+      "desastre",
+      "enchente",
+      "alerta de enchente"
+    ],
+    "resposta": "Para receber alertas por SMS, envie uma mensagem com o CEP da área de interesse para o número 40199. O serviço é gratuito. O cadastro é feito fora deste assistente.",
+    "documentos": [
+      "CEP da região, informado somente no canal oficial"
+    ],
+    "onde": "SMS 40199 / Defesa Civil",
+    "fonte": "https://www.gov.br/pt-br/servicos/solicitar-cadastro-para-recebimento-de-avisos-e-alertas-de-desastres",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 10,
+    "categoria": "Segurança",
+    "titulo": "Entender o sistema Defesa Civil Alerta",
+    "palavras_chave": [
+      "defesa civil alerta",
+      "alerta emergencia",
+      "alerta celular",
+      "deslizamento"
+    ],
+    "resposta": "O Defesa Civil Alerta envia avisos de emergência direto para celulares que estão em áreas de risco, sem cadastro prévio. O celular precisa ser compatível e estar conectado ao 4G ou 5G. A ferramenta ainda está em fase de testes em poucos municípios; para garantir, use também o SMS 40199.",
+    "documentos": [
+      "Nenhum cadastro prévio; celular compatível conectado ao 4G ou 5G"
+    ],
+    "onde": "Alertas emitidos pela Defesa Civil em regiões abrangidas",
+    "fonte": "https://www.gov.br/mdr/pt-br/assuntos/protecao-e-defesa-civil/defesa-civil-alerta",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 11,
+    "categoria": "Documentos",
+    "titulo": "Consultar serviços para trabalhadores no Emprega Brasil",
+    "palavras_chave": [
+      "emprega brasil",
+      "portal emprego",
+      "seguro desemprego",
+      "abono salarial"
+    ],
+    "resposta": "O Portal Emprega Brasil permite ver informações da Carteira de Trabalho Digital, consultar o Seguro-Desemprego, buscar vagas e obter informações do Abono Salarial. O acesso é só pela internet.",
+    "documentos": [
+      "Conta gov.br nível ouro"
+    ],
+    "onde": "Portal Emprega Brasil (internet)",
+    "fonte": "https://www.gov.br/pt-br/servicos/acessar-portal-emprega-brasil-2013-trabalhador",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 12,
+    "categoria": "Saúde",
+    "titulo": "Localizar unidades de saúde pelo Meu SUS Digital",
+    "palavras_chave": [
+      "unidade saude",
+      "encontrar ubs",
+      "posto saude",
+      "hospital perto",
+      "ubs"
+    ],
+    "resposta": "O Meu SUS Digital busca estabelecimentos de saúde próximos da sua localização, como UBS, hospitais e maternidades, e mostra a rota até eles.",
+    "documentos": [
+      "Aplicativo Meu SUS Digital com a localização do celular ativada"
+    ],
+    "onde": "Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao/2-quais-os-servicos-que",
+    "verificado_em": "2026-11-19"
+  }
+]
