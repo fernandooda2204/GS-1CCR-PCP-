@@ -63,9 +63,6 @@ Integrações com outras disciplinas: nenhuma (opcionais no enunciado).
 ## Simulação 
 Foi criada a pasta `simulacao/` com Gustavo (4 atendimentos), Ariane (3) e Thalles (3), com dados, CSV e indicadores. Consulte `simulacao/RELATORIO_SIMULADO.md`.
 
-## 10. Vídeo técnico
-Link do YouTube não listado: 
-Duração permitida: entre 5 e 8 minutos; todos os integrantes devem explicar o código com a própria voz. Ver `docs/roteiro_video.md`.
 
-## 11. Organização
+## 10. Organização
 `main.py`, `orientacao.py`, `base_conhecimento.py`, `assistente.py`, `data/`, `docs/`.
